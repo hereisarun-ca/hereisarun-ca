@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MAC Consultants</title>
+    <description>CA M Arunachalam, Solopreneur</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 19 Jun 2024 00:52:28 +0000</pubDate>
+    <lastBuildDate>Wed, 19 Jun 2024 00:52:28 +0000</lastBuildDate>
+    <generator>Jekyll v4.3.3</generator>
+    
+      <item>
+        <title>Third Post</title>
+        <description>&lt;p&gt;Id venenatis a condimentum vitae. In metus vulputate eu scelerisque felis imperdiet proin fermentum leo. Elementum eu facilisis sed odio morbi quis. Pulvinar sapien et ligula ullamcorper. Tempus urna et pharetra pharetra massa. Molestie a iaculis at erat pellentesque adipiscing commodo elit. Ut porttitor leo a diam sollicitudin tempor id. Faucibus scelerisque eleifend donec pretium vulputate. Urna neque viverra justo nec ultrices dui. Lobortis scelerisque fermentum dui faucibus in ornare quam.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 02 May 2024 12:00:00 +0000</pubDate>
+        <link>http://localhost:4000/personal/Third-Post.html</link>
+        <guid isPermaLink="true">http://localhost:4000/personal/Third-Post.html</guid>
+        
+        
+        <category>personal</category>
+        
+      </item>
+    
+      <item>
+        <title>Second Post</title>
+        <description>&lt;p&gt;Id venenatis a condimentum vitae. In metus vulputate eu scelerisque felis imperdiet proin fermentum leo. Elementum eu facilisis sed odio morbi quis. Pulvinar sapien et ligula ullamcorper. Tempus urna et pharetra pharetra massa. Molestie a iaculis at erat pellentesque adipiscing commodo elit. Ut porttitor leo a diam sollicitudin tempor id. Faucibus scelerisque eleifend donec pretium vulputate. Urna neque viverra justo nec ultrices dui. Lobortis scelerisque fermentum dui faucibus in ornare quam.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 02 May 2024 12:00:00 +0000</pubDate>
+        <link>http://localhost:4000/gst/Second-Post.html</link>
+        <guid isPermaLink="true">http://localhost:4000/gst/Second-Post.html</guid>
+        
+        
+        <category>GST</category>
+        
+      </item>
+    
+      <item>
+        <title>First Post</title>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis lectus nulla at volutpat diam. Sed tempus urna et pharetra. Facilisi nullam vehicula ipsum a arcu cursus vitae. Proin sed libero enim sed. Eu nisl nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Convallis posuere morbi leo urna molestie at elementum eu. Eu scelerisque felis imperdiet proin fermentum leo vel orci porta. Sollicitudin tempor id eu nisl nunc mi ipsum faucibus vitae. Nulla facilisi cras fermentum odio. Nulla aliquet enim tortor at. Dignissim suspendisse in est ante in nibh mauris. Orci a scelerisque purus semper eget duis. Venenatis tellus in metus vulputate eu scelerisque felis. Orci phasellus egestas tellus rutrum tellus pellentesque. Quam nulla porttitor massa id neque aliquam. Sed elementum tempus egestas sed sed risus pretium quam. Sit amet volutpat consequat mauris nunc congue nisi. Sed arcu non odio euismod.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 01 May 2024 12:00:00 +0000</pubDate>
+        <link>http://localhost:4000/personal/First-Post.html</link>
+        <guid isPermaLink="true">http://localhost:4000/personal/First-Post.html</guid>
+        
+        
+        <category>personal</category>
+        
+      </item>
+    
+  </channel>
+</rss>

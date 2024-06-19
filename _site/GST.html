@@ -5,8 +5,8 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <title>MAC Consultants</title>
-  <meta name="description" content="{{ site.description }}">
-  <base href="{{ site.url }}" <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="CA M Arunachalam, Solopreneur">
+  <base href="http://localhost:4000" <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 
   <!-- CSS -->
@@ -65,9 +65,9 @@
               <!-- Collect the nav links, forms, and other content for toggling -->
               <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
-                  <li {% if page.url=="/" %} class="active" {% endif %}><a href="index.html">Home</a></li>
-                  <li {% if page.url=="/blog.html" %} class="active" {% endif %}><a href="blog.html">Blogs</a></li>
-                  <li {% if page.url=="/contact.html" %} class="active" {% endif %}><a href="contact.html">Contact</a>
+                  <li ><a href="index.html">Home</a></li>
+                  <li ><a href="blog.html">Blogs</a></li>
+                  <li ><a href="contact.html">Contact</a>
                   </li>
                 </ul>
               </div><!-- /.navbar-collapse -->
@@ -78,7 +78,79 @@
     </div>
   </header><!-- header close -->
 
-  {{ content }}
+  <!-- Slider Start -->
+<section id="slider">
+
+  <div class="row">
+    <div class="col-md-offset-1 col-md-5 col-sm-12">
+      <div class="block">
+        <p class="animated fadeInLeft">Get your taxes in order, stay compliant and stress-free with tax preparation &
+          filing with our expert tax advice.</p>
+      </div>
+      <div class="block animated fadeInUp"">
+        <a class="btn btn-primary btn-call-to-action" href="/contact.html">Contact Us</a>
+      </div>
+    </div>
+    <div class="col-md-4 col-sm-12">
+      <div class="block text-center">
+        <img src="img/MACC-2.png" alt="MAC Consultants">
+      </div>
+    </div>
+
+  </div>
+
+</section>
+
+
+<!-- Blog HTML -->
+<section id="blog">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-md-8">
+                <h4>Viewing posts under GST Category</h4>
+                <h5><a href="/blog.html">Click here</a> to view all blog posts</h5>
+                
+                <h2><a href="/gst/Second-Post.html"> Second Post </a></h2>
+                <p class="lead">by Peter Parker </p>
+                <p>Posted on May 02, 2024</p>
+                
+                <div> <p>Id venenatis a condimentum vitae. In metus vulputate eu scelerisque felis imperdiet proin fermentum leo. Elementum eu facilisis sed odio morbi quis. Pulvinar sapien et ligula ullamcorper. Tempus urna et pharetra pharetra massa. Molestie a iaculis at erat pellentesque adipiscing commodo elit. Ut porttitor leo a diam sollicitudin tempor id. Faucibus scelerisque eleifend donec pretium vulputate. Urna neque viverra justo nec ultrices dui. Lobortis scelerisque fermentum dui faucibus in ornare quam.</p>
+ </div>
+                <hr>
+                
+
+
+            </div>
+
+            <!-- Blog Sidebar Widgets Column -->
+            <div class="col-md-4">
+                <!-- Blog Categories Well -->
+                <div class="well">
+                    <h4>Blog Categories</h4>
+                    <div class="row">
+                        <div class="col-lg-12">
+                            
+                            <ul class="list-unstyled">
+                                <li><a href="personal">personal</a>
+                                </li>
+                            </ul>
+
+                            
+                            <ul class="list-unstyled">
+                                <li><a href="GST">GST</a>
+                                </li>
+                            </ul>
+
+                            
+                        </div>
+                    </div>
+                    <!-- /.row -->
+                </div>
+
+
+            </div>
+        </div>
+</section>
 
 
   <!-- footer Start -->
