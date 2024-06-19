@@ -4,7 +4,7 @@ Welcome to my website repository!
 
 ## Description
 
-This repository hosts the source code for my personal website. It includes HTML, CSS, and possibly JavaScript files to create a responsive and interactive website.
+This repository hosts the source code for my personal website.
 
 ## Copyright
 
