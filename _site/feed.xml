@@ -5,15 +5,13 @@
     <description>CA M Arunachalam, Solopreneur</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 24 Jun 2024 14:29:04 +0000</pubDate>
-    <lastBuildDate>Mon, 24 Jun 2024 14:29:04 +0000</lastBuildDate>
+    <pubDate>Mon, 24 Jun 2024 14:45:29 +0000</pubDate>
+    <lastBuildDate>Mon, 24 Jun 2024 14:45:29 +0000</lastBuildDate>
     <generator>Jekyll v4.3.3</generator>
     
       <item>
         <title>Choosing the correct ITR Form for an Individual Taxpayer</title>
-        <description>&lt;h2 id=&quot;choosing-the-correct-itr-form-for-an-individual-taxpayer&quot;&gt;Choosing the correct ITR Form for an Individual taxpayer&lt;/h2&gt;
-
-&lt;p&gt;As the tax season approaches, salaried individuals are gearing up to file their income tax returns (ITR) with the issuance of Form-16 by employers.&lt;/p&gt;
+        <description>&lt;p&gt;As the tax season approaches, salaried individuals are gearing up to file their income tax returns (ITR) with the issuance of Form-16 by employers.&lt;/p&gt;
 
 &lt;p&gt;To streamline the process and avoid last-minute hassles, it’s advisable not to delay filing. Ensuring all necessary documents are in order, including Form 26AS and the Annual Information Statement (AIS), is crucial before beginning the filing process.&lt;/p&gt;
 
@@ -26,11 +24,11 @@
 &lt;p&gt;For expert assistance and timely Tax Filing services, feel free to contact us. We’re here to help you file your taxes with confidence and accuracy.&lt;/p&gt;
 </description>
         <pubDate>Mon, 24 Jun 2024 12:00:00 +0000</pubDate>
-        <link>http://localhost:4000/personal/Right_ITR.html</link>
-        <guid isPermaLink="true">http://localhost:4000/personal/Right_ITR.html</guid>
+        <link>http://localhost:4000/income%20tax/Right_ITR.html</link>
+        <guid isPermaLink="true">http://localhost:4000/income%20tax/Right_ITR.html</guid>
         
         
-        <category>personal</category>
+        <category>Income Tax</category>
         
       </item>
     
